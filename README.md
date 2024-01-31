@@ -9,6 +9,6 @@ A simple Day Planner with hourly blocks.  Once a block has been modified it can 
 Live site:
 https://mojo718.github.io/DayPlanner
 
-Screnshot located in img folder.
+Screenshot located in /assets/img/DayPlanner.JPG
 
 
