@@ -5,10 +5,7 @@ A simple Day Planner with hourly blocks.  Once a block has been modified it can 
 ## Getting Started:
 1. Clone the repository from https://github.com/mojo718/DayPlanner
 2. Open script.js in your favorite code editor to review the Javascript
+3. Screenshot located in /assets/img/DayPlanner.JPG
 
 Live site:
 https://mojo718.github.io/DayPlanner
-
-Screenshot located in /assets/img/DayPlanner.JPG
-
-
